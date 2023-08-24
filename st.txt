@@ -1,0 +1,6 @@
+wap to rev a string value
+wap to compare two string and print strings are equal or not
+wap to compare two string and check how many character are equal
+wap to input a string and check how many consonant are present in string
+wap to input a string and copy the string into  another string
+wap  to input first name and last name

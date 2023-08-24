@@ -1,0 +1,26 @@
+2d array is the collection of multiple values where all values are are sorted  in forms of rows and columns.
+
+It is collection of multiple rows and multiple columns in each row is same.
+
+In 2d array no. of columns in each row is same.
+
+In 2d array we have to pass  size of rows and column at the time of declation.
+
+To access any element of 2d array we have to use 2 indexes index of row and index of column.
+
+......................................................
+
+Syntax :
+
+data_type array_name [row_size][col_size];
+
+When you want to access one element of 2d array -
+
+array_name[row_index][column_size]
+
+ex-
+
+int arr[3][4];
+total number of element in 2d array = row_size*column_size
+
+so, 3*4=12

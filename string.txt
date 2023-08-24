@@ -1,0 +1,19 @@
+pre defined funtion of string
+
+gets(): 
+puts(): use to print single string value on console screen
+strlwr(): change case of all char in lower : 1 parameter
+strupr(): change case of all char in upper :1 parameter
+strcpy() : intialize the string value into other string variable: 2parameter
+strcat() : used to concate the two string values together.: 2 parameter
+strncpy() : copy till n charcter :3 parameter
+strcmp() : use to compare string to another :2 parameter both string
+strncmp() : used to compare a string another till n length : 3 parameter 2 string one int
+strlen() : return length of a string. :1 string parameter
+strrev():reverse
+
+--------------------------------------
+
+these all pre defined functions is stored in "string.h" header file.
+
+
